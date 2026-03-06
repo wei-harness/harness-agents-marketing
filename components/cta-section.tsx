@@ -47,7 +47,7 @@ export function Footer() {
         <div className="flex justify-between items-start max-md:flex-col max-md:gap-8">
           <div>
             <div className="flex items-center gap-2.5 font-bold text-[1rem] tracking-[-0.02em] text-[var(--text-primary)] mb-3">
-              <img src="/harness-ai/agents/harness-ai.svg" alt="Harness AI" className="w-6 h-6" />
+              <img src="https://cdn.prod.website-files.com/6222ca42ea87e1bd1aa1d10c/6897b6098fe3070c39218537_Harness%20AI.svg" alt="Harness AI" className="w-6 h-6" />
               Harness AI
             </div>
             <p className="text-[0.8rem] text-[var(--text-muted)] max-w-[300px] leading-[1.6]">

@@ -1,8 +1,8 @@
 import type { NextConfig } from 'next'
 
 const nextConfig: NextConfig = {
-  basePath: '/harness-ai/agents',
-  assetPrefix: '/harness-ai/agents',
+  basePath: '/products/harness-ai/agents',
+  assetPrefix: '/products/harness-ai/agents',
   typescript: {
     ignoreBuildErrors: true,
   },
